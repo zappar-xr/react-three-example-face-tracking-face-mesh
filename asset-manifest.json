@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-three-example-face-tracking-face-mesh/static/css/main.16285d4f.chunk.css",
-    "main.js": "/react-three-example-face-tracking-face-mesh/static/js/main.a37f9864.chunk.js",
-    "main.js.map": "/react-three-example-face-tracking-face-mesh/static/js/main.a37f9864.chunk.js.map",
-    "runtime-main.js": "/react-three-example-face-tracking-face-mesh/static/js/runtime-main.25a49ac2.js",
-    "runtime-main.js.map": "/react-three-example-face-tracking-face-mesh/static/js/runtime-main.25a49ac2.js.map",
-    "static/js/2.289d6587.chunk.js": "/react-three-example-face-tracking-face-mesh/static/js/2.289d6587.chunk.js",
-    "static/js/2.289d6587.chunk.js.map": "/react-three-example-face-tracking-face-mesh/static/js/2.289d6587.chunk.js.map",
-    "static/js/3.f6848e74.chunk.js": "/react-three-example-face-tracking-face-mesh/static/js/3.f6848e74.chunk.js",
-    "static/js/3.f6848e74.chunk.js.map": "/react-three-example-face-tracking-face-mesh/static/js/3.f6848e74.chunk.js.map",
+    "main.css": "/react-three-example-face-tracking-face-mesh/static/css/main.a25be651.chunk.css",
+    "main.js": "/react-three-example-face-tracking-face-mesh/static/js/main.76286020.chunk.js",
+    "main.js.map": "/react-three-example-face-tracking-face-mesh/static/js/main.76286020.chunk.js.map",
+    "runtime-main.js": "/react-three-example-face-tracking-face-mesh/static/js/runtime-main.4b7b127e.js",
+    "runtime-main.js.map": "/react-three-example-face-tracking-face-mesh/static/js/runtime-main.4b7b127e.js.map",
+    "static/js/2.9ffcdc67.chunk.js": "/react-three-example-face-tracking-face-mesh/static/js/2.9ffcdc67.chunk.js",
+    "static/js/2.9ffcdc67.chunk.js.map": "/react-three-example-face-tracking-face-mesh/static/js/2.9ffcdc67.chunk.js.map",
+    "static/js/3.6eb1e7d4.chunk.js": "/react-three-example-face-tracking-face-mesh/static/js/3.6eb1e7d4.chunk.js",
+    "static/js/3.6eb1e7d4.chunk.js.map": "/react-three-example-face-tracking-face-mesh/static/js/3.6eb1e7d4.chunk.js.map",
     "face_tracking_model.zbin": "/react-three-example-face-tracking-face-mesh/482727c0e7dd40d73f5aae47f238ad61.zbin",
     "face_mesh_face_model.zbin": "/react-three-example-face-tracking-face-mesh/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
     "face_mesh_full_head_simplified_model.zbin": "/react-three-example-face-tracking-face-mesh/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/react-three-example-face-tracking-face-mesh/index.html",
-    "static/css/main.16285d4f.chunk.css.map": "/react-three-example-face-tracking-face-mesh/static/css/main.16285d4f.chunk.css.map",
-    "static/js/2.289d6587.chunk.js.LICENSE.txt": "/react-three-example-face-tracking-face-mesh/static/js/2.289d6587.chunk.js.LICENSE.txt",
+    "static/css/main.a25be651.chunk.css.map": "/react-three-example-face-tracking-face-mesh/static/css/main.a25be651.chunk.css.map",
+    "static/js/2.9ffcdc67.chunk.js.LICENSE.txt": "/react-three-example-face-tracking-face-mesh/static/js/2.9ffcdc67.chunk.js.LICENSE.txt",
     "static/js/worker.ef217d38.worker.js": "/react-three-example-face-tracking-face-mesh/static/js/worker.ef217d38.worker.js",
     "static/js/worker.ef217d38.worker.js.map": "/react-three-example-face-tracking-face-mesh/static/js/worker.ef217d38.worker.js.map",
     "static/media/faceMeshTemplate.6e15d49f.png": "/react-three-example-face-tracking-face-mesh/static/media/faceMeshTemplate.6e15d49f.png",
     "zcv/zcv.wasm": "/react-three-example-face-tracking-face-mesh/zcv/zcv.wasm"
   },
   "entrypoints": [
-    "static/js/runtime-main.25a49ac2.js",
-    "static/js/2.289d6587.chunk.js",
-    "static/css/main.16285d4f.chunk.css",
-    "static/js/main.a37f9864.chunk.js"
+    "static/js/runtime-main.4b7b127e.js",
+    "static/js/2.9ffcdc67.chunk.js",
+    "static/css/main.a25be651.chunk.css",
+    "static/js/main.76286020.chunk.js"
   ]
 }
