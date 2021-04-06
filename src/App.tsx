@@ -2,7 +2,7 @@ import React, { Suspense, useRef } from 'react';
 import { useLoader } from 'react-three-fiber';
 import { TextureLoader } from 'three';
 import {
- FaceBufferGeometry, FaceTracker, ZapparCamera, ZapparCanvas,
+ FaceBufferGeometry, FaceTracker, ZapparCamera, ZapparCanvas, Types
 } from '@zappar/zappar-react-three-fiber';
 
 import faceMapSrc from './assets/faceMeshTemplate.png'
@@ -13,11 +13,11 @@ const FaceMeshMaterial = () => {
 };
 
 function App() {
-    const trackerGroup = useRef()
+    const trackerGroup = useRef<Types.FaceAnchorGroup>()
     return (
       <ZapparCanvas>
         <ZapparCamera userFacing rearCameraMirrorMode="css"/>
-        <FaceTracker ref={trackerGroup}>
+        <FaceTracker ref={trackerGroup as any}>
           <Suspense fallback={null}>
             <mesh>
               <FaceMeshMaterial />
