@@ -1,5 +1,5 @@
 import React, { Suspense, useRef } from 'react';
-import { useLoader } from 'react-three-fiber';
+import { useLoader } from '@react-three/fiber';
 import { TextureLoader } from 'three';
 import {
  FaceBufferGeometry, FaceTracker, ZapparCamera, ZapparCanvas, Types
